@@ -1,0 +1,13 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Lab Assignment 1 - Node.js core modules",
+  "main": "app.js",
+  "scripts": {
+    "calculator": "node calculator.js",
+    "app": "node app.js",
+    "server": "node server.js",
+    "files": "node fileManager.js",
+    "dice": "node dice.js"
+  }
+}

@@ -1,0 +1,14 @@
+
+--- Dice Roll Session: 24/8/2026, 3:56:37 pm ---
+Roll 1: Dice Rolled: 1
+Roll 2: Dice Rolled: 2
+Roll 3: Dice Rolled: 1
+Roll 4: Dice Rolled: 6
+Roll 5: Dice Rolled: 6
+
+--- Dice Roll Session: 24/8/2026, 3:56:48 pm ---
+Roll 1: Dice Rolled: 1
+Roll 2: Dice Rolled: 4
+Roll 3: Dice Rolled: 3
+Roll 4: Dice Rolled: 3
+Roll 5: Dice Rolled: 2
