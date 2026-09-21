@@ -1,6 +1,13 @@
 // Random Dice Generator using Node.js built-in crypto module
-const crypto = require("crypto");
+const crypto = require("crypto");  // It provides cryptographic/random functionality.
 const fs = require("fs");
+// Imports Node's built-in File System module.
+// fs allows us to:
+// create files
+// read files
+// write files
+// append files
+// delete files
 
 function rollDice() {
   return crypto.randomInt(1, 7);
@@ -17,7 +24,7 @@ if (!Number.isInteger(numberOfRolls) || numberOfRolls <= 0) {
 
 const historyFile = "dice-history.txt";
 
-const timestamp = new Date().toLocaleString();
+const timestamp = new Date().toLocaleString(); //toLocaleString here gives us the readable string format
 
 fs.appendFileSync(
   historyFile,
